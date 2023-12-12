@@ -1,0 +1,9 @@
+node_modules
+
+/.cache
+/build
+/public/build
+.env
+/api/index.js
+
+/prisma/dev.db
